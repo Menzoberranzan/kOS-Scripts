@@ -1,6 +1,5 @@
-// OmniSat Boot v1.0.0
-// Kevin Gisi
-// http://youtube.com/gisikw
+// CommSat Boot v1.0.0
+// Wayne Crawford
 
 IF ALT:RADAR < 100 {
 
