@@ -1,4 +1,4 @@
-// ComSat I Update v 1.0
+// CommSat I Update v 1.0
 // Wayne Crawford
 
 COPY CommSat.circularize.ks from 0.
