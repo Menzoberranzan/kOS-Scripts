@@ -5,7 +5,7 @@ COPY CommSat.circularize.ks from 0.
 
 WAIT 1.
 
-RUN CommSat.circularize.ks(500000, "CommSat III, 10).
+RUN CommSat.circularize.ks(500000, "CommSat III", 10).
 
 WAIT 1.
 
